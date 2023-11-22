@@ -31,5 +31,7 @@ Main menu: Will show options for starting the game, selecting a difficulty level
 The game will be developed in the following stages:
 
 Stage 1: Creating the basic structure of the game. 
+
 Stage 2: Adding functions for shooting aliens and tracking their number. 
+
 Stage 3: Adding additional features, such as different types of aliens and difficulty levels. Expected results: The expected results of the game are to be fun and challenging for players. The game will also be educational, as it will teach players about aliens and space battles.
